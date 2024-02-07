@@ -1,0 +1,31 @@
+.link {
+    color: antiquewhite;
+     }
+
+.title {
+    color: antiquewhite;
+    text-align: center;
+    font-size: 500%
+
+}
+
+.background {
+    background-image: url(https://img.freepik.com/free-photo/planet-earth-background_23-2150564685.jpg?w=1380&t=st=1707341833~exp=1707342433~hmac=a4591b8f7251b3d8da038db24f7277bd8098b1a5954c709fe6996db285014594);
+    
+}
+
+.h2 {
+    color: antiquewhite;
+    text-align: center;
+    font-size: 200%;
+}
+
+.link-align {
+    text-align: center;
+}
+
+.enter-link {
+    color: rgb(139, 50, 50);
+    text-align: center;
+    font-size: 250%;
+}
