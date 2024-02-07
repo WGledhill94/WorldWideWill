@@ -18,7 +18,7 @@
 }
 
 .h2 {
-    color: antiquewhite;
+    color: red;
     text-align: center;
     font-size: 200%;
 }
@@ -28,7 +28,7 @@
 }
 
 .enter-link {
-    color: rgb(139, 50, 50);
+    color: antiquewhite;
     text-align: center;
     font-size: 250%;
 }
