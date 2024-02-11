@@ -1,14 +1,13 @@
 .link {
     color: antiquewhite;
-     }
-
-.title {
-    color: antiquewhite;
-    text-align: center;
-    font-size: 500%
-
 }
 
+.title {
+    color: rgb(0, 102, 255);
+    text-align: center;
+    font-size: 500%;
+}
+    
 .background {
     background-image: url('./images/planet-earth-background.jpg');
     height: 100%;
@@ -27,11 +26,15 @@
     text-align: center;
 }
 
-.enter-link {
+.enter-link-design {
     color: antiquewhite;
-    text-align: center;
-    font-size: 250%;
 }
+
+.enter-link-format{
+    text-align: center;
+    font-size: 500%;
+}
+
 body, html {
     height: 100%;
 }
