@@ -10,7 +10,7 @@
 }
 
 .background {
-    background-image: url(https://img.freepik.com/free-photo/planet-earth-background_23-2150564685.jpg?w=1380&t=st=1707348010~exp=1707348610~hmac=ccde97225317f5b356a726f3acab44a39dbc898de38ed0d52f88b47f4d6712c5);
+    background-image: url('./images/planet-earth-background.jpg');
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
