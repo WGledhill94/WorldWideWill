@@ -1,11 +1,10 @@
-.link {
+body {
+   background-color:cadetblue;
+}
+
+#link {
     color: whitesmoke;
     font-weight: bold;
     font-size: x-large;
-    text-align: center;
-     }
+}
 
-     .background {
-        background-color:rgb(90, 175, 208)
-        
-     }
