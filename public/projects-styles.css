@@ -1,15 +1,20 @@
+.background {
+  background-color: cadetblue;
+}
+
 .link {
-    color: black;
-   
-     }
+  color: black;
+}
 
 .title {
-    color: black;
-    text-align: center;
+  color: whitesmoke;
+  text-decoration: underline;
+
+  text-align: center;
+  font-size: 4rem;
 }
 
 .list1 {
-
-    color: black;
-    font-weight:bold
+  color: black;
+  font-weight: bold;
 }
