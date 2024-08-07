@@ -1,12 +1,9 @@
-.link {
-   text-align: center;
-   color: whitesmoke;
-   font-weight: bold;
-   font-size: x-large;
-   
+body {
+  background-color: cadetblue;
 }
 
-.background {
-   background-color:rgb(90, 175, 208)
-        
+.link {
+  color: whitesmoke;
+  font-weight: bold;
+  font-size: x-large;
 }
