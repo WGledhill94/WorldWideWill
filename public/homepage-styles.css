@@ -1,3 +1,14 @@
+feature/addGuessNumberGameAndUpdates
+#link {
+  text-align: center;
+  color: whitesmoke;
+  font-weight: bold;
+  font-size: x-large;
+}
+
+.background {
+  background-color: cadetblue;
+=======
 body {
   background-color: cadetblue;
 }
@@ -6,4 +17,5 @@ body {
   color: whitesmoke;
   font-weight: bold;
   font-size: x-large;
+main
 }
