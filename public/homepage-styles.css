@@ -1,5 +1,4 @@
-feature/addGuessNumberGameAndUpdates
-#link {
+.link {
   text-align: center;
   color: whitesmoke;
   font-weight: bold;
@@ -8,14 +7,8 @@ feature/addGuessNumberGameAndUpdates
 
 .background {
   background-color: cadetblue;
-=======
-body {
-  background-color: cadetblue;
 }
 
-.link {
-  color: whitesmoke;
-  font-weight: bold;
-  font-size: x-large;
-main
+body {
+  background-color: cadetblue;
 }
