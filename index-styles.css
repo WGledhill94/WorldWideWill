@@ -1,40 +1,45 @@
 .link {
-    color: antiquewhite;
+  color: antiquewhite;
 }
 
 .title {
-    color: rgb(0, 102, 255);
-    text-align: center;
-    font-size: 500%;
+  color: rgb(0, 102, 255);
+  text-align: center;
+  font-size: 500%;
 }
-    
+
 .background {
-    background-image: url('./images/planet-earth-background.jpg');
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+  background-image: url("./images/planet-earth-background.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .h2 {
-    color: red;
-    text-align: center;
-    font-size: 200%;
+  color: red;
+  text-align: center;
+  font-size: 200%;
 }
 
 .link-align {
-    text-align: center;
+  text-align: center;
 }
 
 .enter-link-design {
-    color: antiquewhite;
+  color: antiquewhite;
 }
 
-.enter-link-format{
-    text-align: center;
-    font-size: 500%;
+body,
+html {
+  height: 100%;
 }
 
-body, html {
-    height: 100%;
+.enter-button {
+  margin: 0;
+  position: absolute;
+  top: 25%;
+  right: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
