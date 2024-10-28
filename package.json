@@ -1,0 +1,14 @@
+{
+  "name": "worldwidewill",
+  "version": "1.0.0",
+  "description": "update-0.0.01: Changes made to resume.html. Added in additional company/position along with details of role duties.\r update-0.0.02: Test of merging through GitHub Desktop. Change made to about.html\r testing changing branch in Visual Studio Code.\r testing set up on second laptop",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.8.1"
+  }
+}
